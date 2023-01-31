@@ -1,0 +1,12 @@
+
+[2023-01-18T18:46:00.055] [ERROR] default - Error- DaoCartMongo - Funcion updateFinalizarCarritoByUsuario: ReferenceError: ObjectId is not defined
+[2023-01-18T19:01:45.061] [ERROR] default - Error- DaoCartMongo - Funcion updateFinalizarCarritoByUsuario: ReferenceError: ObjectId is not defined
+[2023-01-18T19:10:41.558] [ERROR] default - Error- DaoCartMongo - Funcion updateFinalizarCarritoByUsuario: ReferenceError: ObjectId is not defined
+[2023-01-18T19:13:13.864] [ERROR] default - Error- DaoCartMongo - Funcion updateFinalizarCarritoByUsuario: ReferenceError: ObjectId is not defined
+[2023-01-18T19:15:07.257] [ERROR] default - Error- DaoCartMongo - Funcion updateFinalizarCarritoByUsuario: ReferenceError: ObjectId is not defined
+[2023-01-18T19:39:12.681] [ERROR] default - Error- DaoCartMongo - Funcion updateFinalizarCarritoByUsuario: ReferenceError: ObjectId is not defined
+[2023-01-21T11:25:31.021] [ERROR] default - Error- MainCarrito - Ruta Actualizar Carrito Finalizar true: Error: Required parameter "opts['to']" missing.
+[2023-01-21T11:30:08.951] [ERROR] default - Error- MainCarrito - Ruta Actualizar Carrito Finalizar true: Error: Required parameter "opts['to']" missing.
+[2023-01-21T18:25:51.378] [ERROR] default - Error- MainCarrito - Ruta Actualizar Carrito Finalizar true: TypeError: Cannot read properties of undefined (reading 'name')
+[2023-01-30T20:34:23.025] [ERROR] default - Error- MainCarrito - Ruta Actualizar Carrito Finalizar true: Error: Authenticate
+[2023-01-30T21:13:37.395] [ERROR] default - Error- MainCarrito - Ruta Actualizar Carrito Finalizar true: Error: Authenticate
